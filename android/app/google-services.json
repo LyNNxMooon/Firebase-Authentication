@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082862756676",
+    "project_id": "wild-cards-ac1cf",
+    "storage_bucket": "wild-cards-ac1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082862756676:android:917d20a06d5e938ee12d11",
+        "android_client_info": {
+          "package_name": "com.example.i_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZriZjsI43CAILM9Ev-HaqMSFlR-iwP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
